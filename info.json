@@ -1,0 +1,11 @@
+{
+    "name": "atan-null",
+    "version": "1.0.0",
+    "title": "Null Item",
+    "author": "atanvarno",
+    "description": "Adds a null item. For use with splitter filters, etc.",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base"
+    ]
+}
