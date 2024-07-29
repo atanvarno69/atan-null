@@ -1,6 +1,6 @@
 {
     "name": "atan-null",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Null Item",
     "author": "atanvarno",
     "description": "Adds a null item. For use with splitter filters, etc.",

@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2024-07-29
+  Optimizations:
+    - Update build process.
+  Info:
+    - Update README.
+    - Update thumbnail.
+    - Add screenshot to mod page.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-01-07
+  Info:
+    - Initial release.
