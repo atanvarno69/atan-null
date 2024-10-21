@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2024-10-22
+  Changes:
+    - Updated to Factorio 2.0.
+  Compatibility:
+    - [Space Age] Added null item weight (not that it should ever exist in an inventory).
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2024-07-29
   Optimizations:

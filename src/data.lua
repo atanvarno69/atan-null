@@ -7,5 +7,6 @@ data:extend({
         icon = "__core__/graphics/no-recipe.png",
         icon_size = 101,
         subgroup = "raw-resource",
+        weight = 10 * tons,
     },
 })
