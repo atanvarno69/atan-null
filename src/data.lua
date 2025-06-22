@@ -8,5 +8,6 @@ data:extend({
         icon_size = 101,
         subgroup = "raw-resource",
         weight = 10 * tons,
+				auto_recycle = false,
     },
 })
