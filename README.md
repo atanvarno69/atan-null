@@ -4,7 +4,7 @@ Adds a null item. For use with splitter filters, etc.
 
 It does not appear in your crafting menu, but is available for filters. The null item signal is also available for use in the circuit network.
 
-Uses the "no recipe" graphic from the base game.
+Choose the icon from: "deny" signal, "no entry" signal (default) or the custom icon.
 
 ## But why?
 
